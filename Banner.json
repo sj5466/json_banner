@@ -1,0 +1,18 @@
+{
+  "status":"ok",
+  "status_message": "Query was successful",
+  "data":{
+    "count":1,
+    "number":1,
+    "bannerInfor":[
+      {
+        "id":"0",
+        "title":"배너 영역",
+        "text1":"유튜버 웹보이",
+        "desc":"더 다양한 강의는 유튜브를 통해 제공하고 있습니다.",
+        "address":"youtube.com/c/Webstoryboy",
+        "text2":"배너 영역01"
+      }
+    ]
+  }
+}
